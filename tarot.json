@@ -1,0 +1,28 @@
+{
+    "cards": [
+        {
+            "card_name": "The Magician",
+            "card_number": 1,
+            "card_suit": "Major Arcana",
+            "card_description": "The Magician represents manifestation, creativity, and the power of manifestation. It suggests the ability to use your imagination and will to make your dreams a reality.",
+            "upright_meaning": "Manifestation, creativity, resourcefulness, self-confidence",
+            "reversed_meaning": "Manipulation, poor planning, lack of focus, being dishonest"
+        },
+        {
+            "card_name": "The High Priestess",
+            "card_number": 2,
+            "card_suit": "Major Arcana",
+            "card_description": "The High Priestess represents intuition, mystery, and the feminine principle. It suggests relying on your instincts and inner wisdom to guide you through life.",
+            "upright_meaning": "Intuition, mystery, subconscious, feminine power",
+            "reversed_meaning": "Lack of intuition, misdirection, unconsciousness, passiveness"
+        },
+        {
+            "card_name": "The Empress",
+            "card_number": 3,
+            "card_suit": "Major Arcana",
+            "card_description": "The Empress represents nurturing, abundance, and motherhood. It suggests taking care of yourself and others, and being in touch with nature and the cycles of life.",
+            "upright_meaning": "Nurturing, abundance, motherhood, femininity",
+            "reversed_meaning": "Lack of nurturing, scarcity, infertility, unfeminine behavior"
+        }
+    ]
+}
